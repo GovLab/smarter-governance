@@ -1,10 +1,18 @@
-SMARTER GOVERNANCE - GETTING KNOWLEDGE IN
+The First Lever of Open: Smarter Governance -- Getting Knowledge In
+
+The Governance Lab @ NYU (http://thegovlab.org) 
+
+September 2013
+
+
 
 “Many hands make light work. Many hands together make merry work.”
 Jeremy Bentham
 
 “No matter who you are, most of the smartest people work for someone else,” 
 Bill Joy (Sun Microsystems)
+
+
 
 
 Introduction
@@ -173,5 +181,5 @@ be its bathhouses.” Kurt Andersen, “The Age of Unreason,” The New Yorker, 
 (36)  “The Promise of Urban Informatics,” Center for Urban Science and Progress, May 30, 2013, http://cusp.nyu.edu/wp-content/uploads/2013/07/CUSP-overview-May-30-2013.pdf 
 
 
-
+This work is licensed under a Creative Commons Attribution 3.0 Unported License.
 
